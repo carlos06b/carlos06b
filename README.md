@@ -7,16 +7,6 @@ Aprendendo ativamente sobre desenvolvimento back-end com foco em Java e SQL. Ten
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos06b&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos06b&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
----
-
 ## 📫 Contato
 
 🌐 [LinkedIn](https://www.linkedin.com/in/carlos-laurindo-6667b0356/)  
