@@ -1,16 +1,23 @@
-## Hi there 👋
+---
+Aprendendo ativamente sobre desenvolvimento back-end com foco em Java e SQL. Tenho estudado conceitos como orientação a objetos, estrutura de dados, lógica de programação e modelagem de sistemas com UML.
 
-<!--
-**carlos06b/carlos06b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧩 Participei da modelagem do aplicativo **Reccicla**, um projeto acadêmico voltado à coleta seletiva, onde trabalhei na criação de fluxogramas, casos de uso e estrutura das funcionalidades.
 
-Here are some ideas to get you started:
+🎯 Estou em busca de uma oportunidade de estágio para colocar em prática o que venho aprendendo e continuar evoluindo como desenvolvedor. Tenho muita vontade de aprender, crescer na área e contribuir com soluções úteis e bem pensadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos06b&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos06b&layout=compact&theme=default" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 Contato
+
+🌐 [LinkedIn](https://www.linkedin.com/in/carlos-laurindo-6667b0356/)  
+📧 Email: carloslaujunior23@gmail.com  
