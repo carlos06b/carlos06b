@@ -1,19 +1,12 @@
----
 ## Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end utilizando Java e SQL.
+Desenvolvedor de sistemas com foco em back-end, utilizando principalmente **Java, Node.js, JavaScript, SQL e MySQL**.
 
-Atualmente estudo e pratico orientação a objetos, estruturas de dados, JDBC, MySQL, modelagem de sistemas, UML e desenvolvimento de aplicações desktop com Java Swing.
+Tenho experiência prática com desenvolvimento de sistemas e APIs, incluindo **CRUD, autenticação, regras de negócio e integração com banco de dados**.
 
-Tenho desenvolvido projetos com conexão ao banco de dados, organização em camadas, cadastros, controle financeiro, relatórios e regras de negócio.
-
-Meu principal projeto atual é um sistema de gestão interna para uma empresa de promotores de vendas, com funcionalidades voltadas para RH, financeiro, despesas, solicitações, relatórios e folha de pagamento.
-
-Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, continuar evoluindo como desenvolvedor e contribuir com soluções bem estruturadas.
-
----
+Já desenvolvi e entreguei o **PIXFlow**, um sistema desenvolvido com Node.js, Express, Prisma e MySQL. Atualmente também desenvolvo um sistema de gestão interna para uma empresa, utilizando Java e MySQL.
 
 ## 📫 Contato
 
-🌐 [LinkedIn](https://www.linkedin.com/in/carlos-laurindo-6667b0356/)  
-📧 Email: carloslaujunior23@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/carlos-laurindo-6667b0356/)
+📧 Email: [carloslaujunior23@gmail.com](mailto:carloslaujunior23@gmail.com)
