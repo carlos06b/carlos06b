@@ -1,4 +1,4 @@
-## Sobre mim
+## CARLOS LAURINDO DE ARAUJO JUNIOR
 
 Desenvolvedor de sistemas com foco em back-end, utilizando principalmente **Java, Node.js, JavaScript, SQL e MySQL**.
 
