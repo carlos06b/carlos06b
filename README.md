@@ -1,12 +1,17 @@
-## CARLOS LAURINDO DE ARAUJO JUNIOR
+## Carlos Laurindo de Araujo Junior
 
-Desenvolvedor de sistemas com foco em back-end, utilizando principalmente **Java, Node.js, JavaScript, SQL e MySQL**.
+### Tecnologias
+**Back-end:** Java · Spring Boot · Node.js · Express
+**Front-end:** React · JavaScript · EJS
+**Banco de dados:** PostgreSQL · MySQL · SQL
+**Integrações:** Mercado Pago (pagamentos e webhooks)
+**Ferramentas:** Git · GitHub
 
-Tenho experiência prática com desenvolvimento de sistemas e APIs, incluindo **CRUD, autenticação, regras de negócio e integração com banco de dados**.
+### Principais projetos
 
-Já desenvolvi e entreguei o **PIXFlow**, um sistema desenvolvido com Node.js, Express, Prisma e MySQL. Atualmente também desenvolvo um sistema de gestão interna para uma empresa, utilizando Java e MySQL.
+- **[Pulse Mousepads](https://github.com/carlos06b/mousepad-store)**: e-commerce completo desenvolvido para um cliente.
 
-## 📫 Contato
+- **Sistema de gestão interna**: em desenvolvimento para uma empresa, com Java, Spring Boot e MySQL, cobrindo [ex.: cadastro de promotores, controle de equipes, relatórios].
 
-🌐 [LinkedIn](https://www.linkedin.com/in/carlos-laurindo-6667b0356/)
-📧 Email: [carloslaujunior23@gmail.com](mailto:carloslaujunior23@gmail.com)
+### 📫 Contato
+🌐 [LinkedIn](https://www.linkedin.com/in/carlos-laurindo-6667b0356/) · 📧 [carloslaujunior23@gmail.com](mailto:carloslaujunior23@gmail.com)
